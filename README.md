@@ -1,3 +1,3 @@
-# Strident Crisis 1.5: Fixed Build
+# Hortas Edition v3: Fixed Build
 
-This is a fixed build of Strident Crisis 1.5, updating the version to be more stable and work cross platform.
+This is a fixed build of Hortas Edition v3, updating the version to be more stable and work cross platform.
